@@ -1,0 +1,220 @@
+[21-Aug-2017 06:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 06:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 06:21:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:27:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:29:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\DI\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:33:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
+[21-Aug-2017 08:33:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Phalcon\Di\FactoryDefault' not found in /home/www/test/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/www/test/public/index.php on line 17
