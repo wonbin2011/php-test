@@ -50,6 +50,7 @@ class IndexController extends ControllerBase
         $data = $cache->get("my-data");
 //
         $this->view->setVar('myData',$data);
+
         return $this->view->render('index','index');
     }
 

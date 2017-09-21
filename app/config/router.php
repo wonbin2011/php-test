@@ -15,6 +15,15 @@ $route = $router->add(
 
 $route->setName("my-profile");
 
+
+$router->add(
+    '/alipay/pagepay',
+    [
+        'controller'    => "users",
+        'action'        => 'pagepay'
+    ]
+    )->setName('pagepay');
+
 //$router->add(
 //    '/test/:controller/a/:action/:params',
 //    [

@@ -6,6 +6,7 @@ define('APP_PATH', BASE_PATH . '/app');
 
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
+ini_set('log_errors','1');
 ini_set('error_log', BASE_PATH . '/error_log.txt');
 
 try {
@@ -35,6 +36,11 @@ try {
      * Include Autoloader
      */
     include APP_PATH . '/config/loader.php';
+
+    /**
+     * composer Autoloader
+     */
+    require BASE_PATH .'/vendor/autoload.php';
 
     /**
      * Handle the request

@@ -8,13 +8,19 @@ $loader = new \Phalcon\Loader();
 $loader->registerDirs(
     [
         $config->application->controllersDir,
-        $config->application->modelsDir
+        $config->application->modelsDir,
+        $config->application->toolsDir,
+
+        '/home/www/test/app/alipay/pagepay/service',
+        '/home/www/test/app/alipay/pagepay/buildermodel',
+        '/home/www/test/app/alipay/aop/request/',
+        '/home/www/test/app/alipay/pagepay',
+        '/home/www/test/app/alipay/aop/',
+        '/home/www/test/app/aplipay'
     ]
 )->register();
 
 $loader->registerClasses(
     [
-        'BlogRoutes'  =>  dirname(__DIR__). "/config/BlogRoutes.php"
-    ]
-
-);
+        'BlogRoutes'  =>  APP_PATH . "/config/BlogRoutes.php"
+    ]);
